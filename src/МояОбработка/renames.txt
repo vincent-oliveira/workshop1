@@ -1,0 +1,9 @@
+﻿30a16cc0-7a77-4549-87b3-eb505d67d907-->und\30a16cc0-7a77-4549-87b3-eb505d67d907
+b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd-->und\b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd
+b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd.0-->Form\Форма\Форма.txt
+b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd.0-->und\b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd.0
+b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd.0-->und\b3778f8c-5e2e-4faa-b90a-92bd3e05cfcd.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
